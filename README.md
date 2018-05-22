@@ -22,3 +22,5 @@ To run the project:
 swift run wordSearchExecutable WordSearchFile1.txt
 swift run wordSearchExecutable WordSearchFile2.txt
 ```
+
+Please refer to the wordSearchFramework README.md for instructions on building and running tests for that project.
