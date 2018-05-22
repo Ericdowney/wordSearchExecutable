@@ -1,0 +1,3 @@
+[submodule "wordSearchFramework"]
+	path = wordSearchFramework
+	url = https://github.com/Ericdowney/wordSearchFramework.git
