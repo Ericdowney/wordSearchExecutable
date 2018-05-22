@@ -5,6 +5,17 @@ This is the main executable package used to solve a word search grid.  This exec
 ## Instructions
 ---
 
+This project includes a git submodule to the wordSearchFramework.  This is for convenience and the framework can be found at the following link:
+
+https://github.com/Ericdowney/wordSearchFramework
+
+Once this repo has been cloned run the following commands to initialize the submodule:
+
+```
+git submodule init
+git submodule update
+```
+
 To run the project:
 
 ```bash
