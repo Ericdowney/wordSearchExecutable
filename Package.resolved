@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "wordSearchFramework",
+        "repositoryURL": "https://github.com/Ericdowney/wordSearchFramework.git",
+        "state": {
+          "branch": null,
+          "revision": "08124cb80723287af56879638b7db22c71d3b9c0",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
